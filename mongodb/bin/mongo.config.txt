@@ -1,0 +1,1 @@
+dbpath="C:\Users\Christophe\Documents\IPython Notebook\mongodb\data"
